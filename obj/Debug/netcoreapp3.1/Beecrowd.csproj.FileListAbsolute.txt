@@ -1,0 +1,13 @@
+C:\Users\pedro\Desktop\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.exe
+C:\Users\pedro\Desktop\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.deps.json
+C:\Users\pedro\Desktop\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.runtimeconfig.json
+C:\Users\pedro\Desktop\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.dll
+C:\Users\pedro\Desktop\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.pdb
+C:\Users\pedro\Desktop\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.csprojAssemblyReference.cache
+C:\Users\pedro\Desktop\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.AssemblyInfo.cs
+C:\Users\pedro\Desktop\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.dll
+C:\Users\pedro\Desktop\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.pdb
+C:\Users\pedro\Desktop\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.genruntimeconfig.cache
