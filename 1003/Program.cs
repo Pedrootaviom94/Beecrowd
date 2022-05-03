@@ -5,14 +5,18 @@ namespace _1003
     class Program
     {
         static void Main(string[] args)
-        {
-              int A;
-          int B;
-         // Console.WriteLine("SOMA = ");
-           A = int.Parse(Console.ReadLine());
-           B = int.Parse(Console.ReadLine());
+		{
 
-            Console.WriteLine("SOMA = {0}", A + B);
-        }
-    }
-}
+			//Obter dados do usuário
+			int a = int.Parse(Console.ReadLine());
+			int b = int.Parse(Console.ReadLine());
+
+			//Printar o resultado
+			Console.WriteLine("PROD = {0}", CalculoProduto(a, b));
+
+		}
+
+		static int CalculoProduto(int a, int b) {
+			return a * b;
+		}
+		
