@@ -13,7 +13,7 @@ namespace _1007
             double c = double.Parse(Console.ReadLine());
             double d = double.Parse(Console.ReadLine());
 			//Printar o resultado
-			Console.WriteLine("DIFERENCA = {0}", CalculoProduto(a, b, c, d ));
+			Console.WriteLine("DIFERENCA = {0}", CalculoProduto(a, b, c, d ), Tostring("F5"));
           
 		}
 
